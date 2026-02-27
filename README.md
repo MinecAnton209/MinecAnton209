@@ -35,7 +35,8 @@
 ## ⭐ Featured projects
 Below are templates — replace these with your real project links and short descriptions.
 
-- [Project One](https://github.com/MinecAnton209/durak-game) — Open-source durak game
+- [Durak Online](https://github.com/MinecAnton209/durak-online) — Open-source durak game
+- [NovumOS](https://github.com/MinecAnton209/NovumOS) — Open-source OS written on Zig
 ---
 
 ## 📈 GitHub Stats
